@@ -1,0 +1,1 @@
+cd app_image && docker build -t uv_app_img .

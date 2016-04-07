@@ -1,0 +1,1 @@
+CATALINA_OPTS="$CATALINA_OPTS -DconfigFileLocation=/config/configFrontend.properties -server -Xms1024m -Xmx2048m"

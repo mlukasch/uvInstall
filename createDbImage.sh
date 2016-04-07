@@ -1,0 +1,1 @@
+cd db_image && docker build -t uv_db_img .
