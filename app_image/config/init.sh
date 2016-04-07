@@ -1,3 +1,3 @@
-sh /config/compileRepo.sh
-sh /config/copyFiles.sh
-sh /config/startApps.sh
+#sh /config/compileRepo.sh
+sh /config/startFrontend.sh
+sh /config/startBackend.sh
