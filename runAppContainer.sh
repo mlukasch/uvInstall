@@ -11,5 +11,4 @@ docker run \
    -p 28080:8080 \
    -p 25010:5010 \
    -ti \
-   uv_app_img \
-   /bin/sh  
+   uv_app_img
