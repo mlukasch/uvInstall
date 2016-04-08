@@ -8,6 +8,6 @@ docker run \
    --name uv_app \
    -p 28080:28080 \
    -p 25010:5010 \
-   -p 280:8080 \
+   -p 28080:8080 \
    -d \
    uv_app_img
