@@ -14,4 +14,4 @@ cp /volume/repo/Core/master/target/master.war $CATALINA_HOME/webapps/
 cp /config/logging.properties $CATALINA_HOME/conf/.
 
 # Start Tomcat server:
-sh $CATALINA_HOME/bin/startup.sh
+sh $CATALINA_HOME/bin/catalina.sh "run"
